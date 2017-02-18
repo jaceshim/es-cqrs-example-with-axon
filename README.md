@@ -8,7 +8,7 @@ Run rabbitMQ in a docker container:
     
 now you can access the web GUI at
 
-* Web URL: http://<dockerhost>:8080/#/queues
+* Web URL: http://<dockerhost>:15672/#/queues
 * user: `guest` 
 * pass: `guest`
 
